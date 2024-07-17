@@ -1,5 +1,5 @@
 {
-  "Defualts": ["engage.cloudflareclient.com:2408"],
+  "Defaults": ["engage.cloudflareclient.com:2408"],
   "ISP/IR-MCI": ["[2606:4700:d0::ffad:86c2:e50:9280]:8319"],
   "ISP/IR-Irancell": ["162.159.192.175:891", "162.159.195.201:942"],
   "ISP/IR-Rightel": [""],
