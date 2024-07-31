@@ -1,10 +1,42 @@
 {
-  "Defaults": ["J28zK4CEz8OZH1yZW5nYWdlLmNsb3VkZmxhcmVjbGllbnQuY29tOjI0MDg=DJiUBgfiE1"],
-  "ISP/IR-MCI": ["Hs1322Lhw62YnvwWzI2MDY6NDcwMDpkMDo6ZmZhZDo4NmMyOmU1MDo5MjgwXTo4MzE5RNTPCTedG8", "7OTJJacXlpTQtxvWzI2MDY6NDcwMDpkMTo6NTZiOToyM2U1OmRjZGQ6ZDFjNl06ODg4Ng==99vSHPxdrG"],
-  "ISP/IR-Irancell": ["9QsdtK9d31XpGcoMTYyLjE1OS4xOTIuMTc1Ojg5MQ==P50DAzb6HQ", "cAoef1RSty0gnA8MTYyLjE1OS4xOTUuMjAxOjk0Mg==SWvwaReQQh"],
-  "ISP/IR-Rightel": ["CfRP4pqRUC6eDGhZW5nYWdlLmNsb3VkZmxhcmVjbGllbnQuY29tOjI0MDg=xskmLGdQsw"],
-  "ISP/IR-TCI": ["0sssNOqOFGe7TK4MTYyLjE1OS4xOTIuMTA6OTM093dSzcMdn8", "Pt0TrMUpTlWRtLaMTYyLjE1OS4xOTIuMTA6ODg4Ng==OAdPxD7l0i"],
-  "ISP/IR-Asiatech": ["BVBJhdxtyneIV20ZW5nYWdlLmNsb3VkZmxhcmVjbGllbnQuY29tOjI0MDg=sHniLXIHqj"],
-  "ISP/IR-Shatel": ["i0teTCDGL6xLvnLZW5nYWdlLmNsb3VkZmxhcmVjbGllbnQuY29tOjI0MDg=2wPYB5eLPy"],
-  "ISP/IR-ParsOnline": ["E4dMzIGXg9ikqdPZW5nYWdlLmNsb3VkZmxhcmVjbGllbnQuY29tOjI0MDg=HuEskhbkIi"]
+  "Defaults": [
+    "J28zK4CEz8OZH1yZW5nYWdlLmNsb3VkZmxhcmVjbGllbnQuY29tOjI0MDg=DJiUBgfiE1"
+  ],
+  "ISP/IR-MCI": {
+    "IPv4": [],
+    "IPv6": [
+      "Hs1322Lhw62YnvwWzI2MDY6NDcwMDpkMDo6ZmZhZDo4NmMyOmU1MDo5MjgwXTo4MzE5RNTPCTedG8",
+      "7OTJJacXlpTQtxvWzI2MDY6NDcwMDpkMTo6NTZiOToyM2U1OmRjZGQ6ZDFjNl06ODg4Ng==99vSHPxdrG"
+    ]
+  },
+  "ISP/IR-Irancell": {
+    "IPv4": [
+      "9QsdtK9d31XpGcoMTYyLjE1OS4xOTIuMTc1Ojg5MQ==P50DAzb6HQ",
+      "cAoef1RSty0gnA8MTYyLjE1OS4xOTUuMjAxOjk0Mg==SWvwaReQQh"
+    ],
+    "IPv6": []
+  },
+  "ISP/IR-Rightel": {
+    "IPv4": [],
+    "IPv6": []
+  },
+  "ISP/IR-TCI": {
+    "IPv4": [
+      "0sssNOqOFGe7TK4MTYyLjE1OS4xOTIuMTA6OTM093dSzcMdn8",
+      "Pt0TrMUpTlWRtLaMTYyLjE1OS4xOTIuMTA6ODg4Ng==OAdPxD7l0i"
+    ],
+    "IPv6": []
+  },
+  "ISP/IR-Asiatech": {
+    "IPv4": [],
+    "IPv6": []
+  },
+  "ISP/IR-Shatel": {
+    "IPv4": [],
+    "IPv6": []
+  },
+  "ISP/IR-ParsOnline": {
+    "IPv4": [],
+    "IPv6": []
+  }
 }
